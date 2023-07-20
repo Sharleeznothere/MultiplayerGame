@@ -418,7 +418,7 @@ class Game {
 
   end(){
     console.log("gameOver")
-    this.gameOver()
+    
   }
 }
 
